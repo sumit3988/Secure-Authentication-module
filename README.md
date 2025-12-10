@@ -193,6 +193,6 @@ This project is intended for educational and research purposes only.
 
 🧑‍💻 Author
 
-Sumit Kumar
-Taran Thakur
-Rooban
+Sumit Kumar<br>
+Taran Thakur<br>
+Rooban<br>
