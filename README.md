@@ -1,4 +1,4 @@
-🔐 Secure Authentication Module for Operating Systems
+🔐 Secure Authentication Module for Operating Systems 
 
 A lightweight, extensible, and secure authentication system designed to enhance traditional OS login by adding Multi-Factor Authentication (MFA), strong hashing, and protection against common vulnerabilities such as buffer overflows, insecure storage, and logic bypasses.
 
