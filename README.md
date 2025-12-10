@@ -193,5 +193,6 @@ This project is intended for educational and research purposes only.
 
 🧑‍💻 Author
 
-Sumit
-CSE Student | Security Enthusiast
+Sumit Kumar
+Taran Thakur
+Rooban
